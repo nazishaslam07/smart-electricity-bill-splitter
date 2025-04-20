@@ -1,0 +1,11 @@
+# Ignore all files in data folder
+data/*
+# But keep the folder structure using a placeholder file
+!data/.gitkeep
+
+# Ignore Python virtual environment
+venv/
+
+# Bytecode and cache files
+__pycache__/
+*.pyc
