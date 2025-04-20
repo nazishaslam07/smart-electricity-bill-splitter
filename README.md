@@ -186,4 +186,93 @@ And the final amount to be paid by each flat looks like the following.
 ---
 
 
+## 💻 Installation & Setup Guide (Windows / Mac / Linux)
+
+This program runs on **any operating system** with Python installed. Here's how to get started based on your OS:
+
+---
+
+### 🪟 Windows
+
+#### ✅ 1. Install Python
+
+1. Go to: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
+2. Download the latest version.
+3. During installation, **check the box**: ✅ _“Add Python to PATH”_
+4. Complete the installation.
+
+#### ✅ 2. Open Command Prompt
+
+Press `Win + R`, type `cmd`, and hit Enter.
+
+#### ✅ 3. Navigate to Your Project Folder
+
+```cmd
+cd path\to\your\project\folder
+
+Example:
+
+cd C:\Users\Nazish\Downloads\bill_split
+
+✅ 4. Install Required Libraries
+
+pip install fpdf tabulate
+
+💡 If pip is not recognized, try:
+
+python -m pip install fpdf tabulate
+
+✅ 5. Run the Program
+
+python split_bill.py
+
+
+🍎 macOS
+✅ 1. Install Python (if not already installed)
+Most Macs already have Python. To install the latest version using Homebrew:
+
+brew install python
+
+💡 If you don’t have Homebrew, install it from https://brew.sh
+
+✅ 2. Open Terminal
+Use Spotlight (Cmd + Space) → type Terminal → press Enter.
+
+✅ 3. Navigate to Your Project Folder
+
+cd ~/Downloads/bill_split
+
+✅ 4. Install Required Libraries
+
+pip3 install fpdf tabulate
+
+✅ 5. Run the Program
+
+python3 split_bill.py
+
+
+🐧 Linux (Ubuntu, Debian, etc.)
+✅ 1. Install Python (if not already)
+
+sudo apt update
+sudo apt install python3 python3-pip
+
+✅ 2. Navigate to Your Project Folder
+
+cd /path/to/bill_split
+
+✅ 3. Install Required Libraries
+
+pip3 install fpdf tabulate
+
+✅ 4. Run the Program
+
+python3 split_bill.py
+
+## 📘 License
+
+This project is licensed under the [MIT License](LICENSE) — free to use, modify, and distribute.
+
+
+
 
