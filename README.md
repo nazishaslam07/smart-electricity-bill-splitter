@@ -213,8 +213,9 @@ cd path\to\your\project\folder
 Example:
 
 cd C:\Users\Nazish\Downloads\bill_split
+```
 
-✅ 4. Install Required Libraries
+#### ✅ 4. Install Required Libraries
 
 pip install fpdf tabulate
 
