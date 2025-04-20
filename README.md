@@ -99,40 +99,61 @@ If you press Enter without typing anything, the program will automatically use t
 Enter Number of Flats [3]: 3
 
 Enter Name of Flat 1 [401]: 401
+
 Enter Name of Flat 2 [402]: 402
+
 Enter Name of Flat 3 [403]: 403
 
 Enter Component B slab 1 units [198]: 58
+
 Enter Component B slab 1 rate [3]: 3
+
 Enter PPAC % for slab 1 [35.83]: 18.19
 
 Enter Component B slab 2 units [199]: 44
+
 Enter Component B slab 2 rate [4.5]: 4.5
+
 Enter PPAC % for slab 2 [35.83]: 18.19
 
 Enter Component B slab 3 units [396]: 143
+
 Enter Component B slab 3 rate [3]: 3
+
 Enter PPAC % for slab 3 [35.83]: 16.93
 
 Enter Component B slab 4 units [397]: 84
+
 Enter Component B slab 4 rate [4.5]: 4.5
+
 Enter PPAC % for slab 4 [35.83]: 16.93
 
 Enter Component B slab 5 units [160]: 0
+
 Enter Component B slab 5 rate [8]: 0
+
 Enter PPAC % for slab 5 [35.83]: 35.83
 
 Enter Component A [198.28]: 200.92
+
 Enter Component D [0]: 0
+
 Enter Component E [705.34]: 110.39
+
 Enter Component F [617.18]: 96.59
+
 Enter Component G [71.04]: 34.75
+
 Enter Component H [619.8]: 73.88
+
 Enter Component I [0]: 0
+
 Enter Component J [2.3]: 4.1
 
 Enter 401 units [550]: 88
+
 Enter 402 units [650]: 179
+
 Enter 403 units [150]: 62
 
 Enter total Rebate/Subsidy amount [0]: 803.69
