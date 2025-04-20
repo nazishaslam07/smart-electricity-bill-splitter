@@ -88,9 +88,8 @@ The landlord should split that bill **fairly**, but many overcharge each tenant 
 ---
 
 
-### 🔍 Sample Prompts You Can Try
-
-After running the program, try answering these for the example:
+📥 How to Input Values from Your Bill
+Use the following example to understand how to enter values when running the script.
 
 ℹ️ Note:
 The values shown within [brackets] are default values.
@@ -98,6 +97,7 @@ If you press Enter without typing anything, the program will automatically use t
 
 
 Enter Number of Flats [3]: 3
+
 Enter Name of Flat 1 [401]: 401
 Enter Name of Flat 2 [402]: 402
 Enter Name of Flat 3 [403]: 403
@@ -136,6 +136,7 @@ Enter 402 units [650]: 179
 Enter 403 units [150]: 62
 
 Enter total Rebate/Subsidy amount [0]: 803.69
+
 
 ## 🔍 Example: Sample Bill + Output
 
