@@ -278,7 +278,7 @@ sudo apt install python3 python3-pip
 cd /path/to/bill_split
 ```
 
-#### ✅ 3. Install Required Libraries
+#### ✅ 3. Install Required Libraries 
 
 ```cmd
 pip3 install fpdf tabulate
