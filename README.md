@@ -165,7 +165,7 @@ Below is a sample scanned bill that we used to test this tool:
 
 ### 📸 Input Bill Image
 
-![Sample Bill](assets/bill.png)
+![Sample Bill](assets/bill_v1s.png)
 
 ---
 
